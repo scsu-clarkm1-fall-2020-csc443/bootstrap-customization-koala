@@ -1,0 +1,10 @@
+// All your styles (after you customize Bootstrap) go here
+.jumbotron {
+    background-color: theme-color('secondary');
+    color: gray("400");
+}
+
+.card .card-body {
+    background-color: theme-color-level('primary', -10);
+}
+
